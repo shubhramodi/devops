@@ -1,2 +1,2 @@
 devops
-This is friday
+Today is thursday
