@@ -1,0 +1,1 @@
+Check differences between a file and its staged version
